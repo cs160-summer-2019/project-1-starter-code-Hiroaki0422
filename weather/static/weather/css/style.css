@@ -1,3 +1,43 @@
 li {
     color: green;
 }
+
+.front-image {
+  height: 400px;
+  width: 600px;
+}
+
+.chart {
+  height: 200px;
+  width: 600px;
+}
+
+.storm-info {
+  text-align: left
+}
+
+.comp-pic {
+  height: 150px;
+  width: 225px;
+}
+
+.comp-velo {
+  height: 75px;
+  width: 225px;
+}
+
+.dangerous {
+  border-style: solid;
+  border-color: red;
+}
+
+.safety-check {
+  border-style: solid;
+  border-color: red;
+  text-align: center;
+  color: red;
+}
+
+.safety-check-forecast {
+  color: red;
+}
